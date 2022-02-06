@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "24197162039",
+    "project_id": "stray-cat-340411",
+    "storage_bucket": "stray-cat-340411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24197162039:android:313c5fabfd7c659fe2cbb2",
+        "android_client_info": {
+          "package_name": "com.room9stone.carecat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24197162039-0mab04udtdc6buvbm7o7t7k0d3of2vlo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.room9stone.carecat",
+            "certificate_hash": "d9b321234d0d48847eeff3acafecb1982f58bf7a"
+          }
+        },
+        {
+          "client_id": "24197162039-dol2s05f3u48lfql2cahqtmbg82o5t2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMloPD4pdjssKarDjV4dLsmGnaXglH0ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24197162039-dol2s05f3u48lfql2cahqtmbg82o5t2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

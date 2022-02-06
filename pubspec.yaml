@@ -1,4 +1,4 @@
-name: catmom
+name: carecat
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -38,10 +38,18 @@ dependencies:
   geolocator: ^8.1.1
   flutter_bloc: ^8.0.1
   equatable: ^2.0.3
+  freezed_annotation:
+  geocoding: ^2.0.2
+  firebase_messaging: ^11.2.6
+  flutter_local_notifications: ^9.2.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  freezed:
+  build_runner:
+  json_serializable:
+
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -62,9 +70,8 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
+  assets:
+    - shelter.json
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
