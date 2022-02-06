@@ -1,26 +1,26 @@
 [
     {
-        "merged": "D:\\catmom\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\deok\\.gradle\\caches\\transforms-2\\files-2.1\\44318f973e18fa59fe3957d8af199b21\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+        "merged": "D:\\Front\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\deok\\.gradle\\caches\\transforms-2\\files-2.1\\ebc22a2ebf710d495f6b1d0049f285dd\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "D:\\catmom\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
-        "source": "C:\\Users\\deok\\.gradle\\caches\\transforms-2\\files-2.1\\44318f973e18fa59fe3957d8af199b21\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+        "merged": "D:\\Front\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\deok\\.gradle\\caches\\transforms-2\\files-2.1\\ebc22a2ebf710d495f6b1d0049f285dd\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "D:\\catmom\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\deok\\.gradle\\caches\\transforms-2\\files-2.1\\44318f973e18fa59fe3957d8af199b21\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+        "merged": "D:\\Front\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\deok\\.gradle\\caches\\transforms-2\\files-2.1\\ebc22a2ebf710d495f6b1d0049f285dd\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "D:\\catmom\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\deok\\.gradle\\caches\\transforms-2\\files-2.1\\44318f973e18fa59fe3957d8af199b21\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+        "merged": "D:\\Front\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\deok\\.gradle\\caches\\transforms-2\\files-2.1\\ebc22a2ebf710d495f6b1d0049f285dd\\core-1.6.0\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "D:\\catmom\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\deok\\.gradle\\caches\\transforms-2\\files-2.1\\44318f973e18fa59fe3957d8af199b21\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "D:\\Front\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\deok\\.gradle\\caches\\transforms-2\\files-2.1\\ebc22a2ebf710d495f6b1d0049f285dd\\core-1.6.0\\res\\layout\\custom_dialog.xml"
     },
     {
-        "merged": "D:\\catmom\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "C:\\Users\\deok\\.gradle\\caches\\transforms-2\\files-2.1\\44318f973e18fa59fe3957d8af199b21\\core-1.6.0\\res\\layout\\notification_action.xml"
+        "merged": "D:\\Front\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\deok\\.gradle\\caches\\transforms-2\\files-2.1\\ebc22a2ebf710d495f6b1d0049f285dd\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
     }
 ]

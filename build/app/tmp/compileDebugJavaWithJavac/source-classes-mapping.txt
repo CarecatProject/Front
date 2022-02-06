@@ -1,4 +1,4 @@
 io/flutter/plugins/GeneratedPluginRegistrant.java
  io.flutter.plugins.GeneratedPluginRegistrant
-com/example/catmom/BuildConfig.java
- com.example.catmom.BuildConfig
+com/room9stone/carecat/BuildConfig.java
+ com.room9stone.carecat.BuildConfig

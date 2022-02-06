@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\catmom\\build\\flutter_plugin_android_lifecycle\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
+            "outputFile": "D:\\Front\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\values-pa\\values-pa.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\deok\\.gradle\\caches\\transforms-2\\files-2.1\\44318f973e18fa59fe3957d8af199b21\\core-1.6.0\\res\\values-pa\\values-pa.xml",
+                    "source": "C:\\Users\\deok\\.gradle\\caches\\transforms-2\\files-2.1\\ebc22a2ebf710d495f6b1d0049f285dd\\core-1.6.0\\res\\values-pa\\values-pa.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "D:\\catmom\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\values-pa\\values-pa.xml",
+            "outputFile": "D:\\Front\\build\\flutter_plugin_android_lifecycle\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\deok\\.gradle\\caches\\transforms-2\\files-2.1\\44318f973e18fa59fe3957d8af199b21\\core-1.6.0\\res\\values-pa\\values-pa.xml",
+                    "source": "C:\\Users\\deok\\.gradle\\caches\\transforms-2\\files-2.1\\ebc22a2ebf710d495f6b1d0049f285dd\\core-1.6.0\\res\\values-pa\\values-pa.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
