@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/room9stone/carecat/BuildConfig.java
- com.room9stone.carecat.BuildConfig
